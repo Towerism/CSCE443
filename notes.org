@@ -1,1 +1,119 @@
 * CSCE 443-500
+** Games are Math
+*** Coin flip example
+- The coin flip is a black box
+- We "press a button" and we magically get feedback
+- The "black box" encapsulates all the unnecessary details
+  - We don't generate random numbers on demand
+  - We generate a huge number and hash into it (no one cares, it's a black box)
+- Conflict avoidance
+  - People play the game more when they don't win so much
+*** We learn how games work via
+**** Observation
+**** Hypothesis
+**** Experiment
+**** Conclusion
+*** Basic game grammar model
+Assumes an opponent.
+- The opponent can be a very simple model
+  - A coin, gravity, subtle variations in different sorts of coints
+- Or a complex one
+  - A coin and a person with differing psychology
+- We don't have the math for people except in a general sense
+- But we do for quite a lot of other things
+- And in fact, usually game rules sit in between people, constraining their
+  possible actions
+  - Treat the opponent like a black box
+Abstract the world and what the people will do and the game design becomes just
+a bunch of rules
+**** Mental model
+**** Intent
+**** Input via tool
+**** Actual model (rules)
+**** State Change
+**** Feedback
+*** Complexity
+- A problem is hard if it needs x^2 or x^x steps
+  - THese are NP prblems and they often have easy solutions. Just not guaranteed
+    to work for every set.
+    - So many games are based on NP Hard or NP Complete problems
+*** The brain is a computer
+- But it isn't like the computers we use every day, which function on one level
+- For one thing, we have different mesaurable.
+- By any measure when compared to that, we suck next to a solar powered calculator
+  - Even though our processing power is estimated at 100 teraFLOPS (radeon: 2.5 tflops)
+*** How our brain works
+- Gf
+  + "Fluid intelligence includes such abilities as problem solving, learning,
+    and pattern recognition"
+- Gc
+  - "Crystalized intelligence... relies on specific acquired knowledge"
+- Our brain is good at some sorts of math and bad at others
+- The ability to see patterns out of noise is hardwired into our brain
+**** Brain hacks
+- The brain builds up algorithms to solve problems
+- But it has a number of cognitive "bugs" in its software!
+****** We will do things for people we think did us a favor even if we don't like them
+- We'll disproportionately help them
+****** Consistency fallacy
+- If I made a promise to do something I'm gonna do it
+- Example: tell a hundred strangers that you are gonna do something, and you are
+  gonna do it
+  - Even getting people to agree to a minor statement that is only partially on
+    the way to a major promise will make them more likely to fulfill the larger promise
+  - "Buy from me once, you'll buy from me twice"
+- We value things that we struggled through difficult painful times to get
+  - regardless of its true value
+  - prove to myself I can do this really difficult thing
+****** Social proof
+- We do things we see other people validating
+- The more like use the others are, the more likely we are to match behavior
+****** The liking problem
+- We instinctively like people like us
+- We also try to please those who like us
+  - Who signal it with flattery, team membership, favors
+- Which means that if you can make someone feel like a liked member of a group,
+  you can get them to do things
+****** Positive association error
+- Put pretty people next to something and we regard the product next to it as better
+****** Authority
+- Taller people with executive hair climb the ranks
+  - And halflings get screwed in MMORPGs
+- We go along with authority
+  - and with sly sincerity
+****** The scarcity principle
+- We overvalue what we thing is scarce
+  - We crave the censored
+  - We click on the forbidded NSFW link
+  - We desire what few have regardless of whether it is worth anything objectively
+  - If there's competition for it, we value it even more
+****** Linear extrapolation 
+- Our human brain tends to only see certain types of curves:
+  - We extrapolate linearly really well
+  - We fail at estimating exponential curves though we can project them
+  - We utterly suck at non-learity (cf. economic crisis)
+- This manifests in all forms of odds calculation
+  - Risk of terrorist attack vs risk of car crash
+** Easy Games 
+- Just because the brain hacks are good systems doesn't mean there is nothing else
+- P, or easy systems, are compelling until an adequate algorithm is developed.
+  - You can gain some mileage from presenting more and more complex data sets
+    for the algorithm to operate against
+- The trick is to balance the difficulty so the player can progress, but it's
+  not too easy for them
+** Some examples of NP problems being turned into rules for a video game
+*** Graph theory
+- branch of math abour relationships between objects
+- Treat this as abstractly as possible
+*** Combat MMORPG
+**** Mechanic
+- About determining similarity between two diff webs of relationship
+- Pick right mix of skills in party to do a raid is an example
+- THe great thing is that Rock-Paper-Scissors is at the heart of this and many
+  other games out there
+*** Steiner tree
+- THe more steiner points a game has, the less fun it will be
+- The trick is finding the tree with minimal weight
+** Ultimately
+- Find a NP prolbem and turn it into a rule for a game
+
