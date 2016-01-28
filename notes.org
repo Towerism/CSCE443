@@ -117,7 +117,6 @@ a bunch of rules
 ** Ultimately
 - Find a NP prolbem and turn it into a rule for a game
 
-* Stealing
 * 10 Ways to Make a Bad Casual Game
 ** Make it really hard
 - Not enough playing time? Make it REAALLY hard
