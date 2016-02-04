@@ -117,108 +117,109 @@ a bunch of rules
 ** Ultimately
 - Find a NP prolbem and turn it into a rule for a game
 
-* 10 Ways to Make a Bad Casual Game
-** Make it really hard
+* Casual Games
+** 10 Ways to Make a Bad Casual Game
+*** Make it really hard
 - Not enough playing time? Make it REAALLY hard
 - Make people fail each level 5 or 6 times, a least
 - Punish newbies with violet death. They deserve it!
-*** DON'T punish players
+**** DON'T punish players
 - Give them room to explore and experiment
 - Make a good tutorial (if you can't play it within 5 minutes, or don't win a
   prize the first day, it's bad)
 - Get them involved
 - People like taking it easy once in a while
-** Have a dozen mediocre game modes instead of one good one
+*** Have a dozen mediocre game modes instead of one good one
 - Which of these modes is good? which to play first
 - Difficulty leve... do I want easy, normal, hard?
 - If you can't decide on one version of the game that's actually fun, just throw
   every iteration in there! Quantity will make up for quality
-*** Make one good game
+**** Make one good game
 - Never throw multiplayer in there, until your single player is good
-** Make it a 600mb download that requires 2 next-gen video cards and 4gb of ram and test it on just 1 computer 
+*** Make it a 600mb download that requires 2 next-gen video cards and 4gb of ram and test it on just 1 computer 
 - 3d texture bump mapping is awesome, let's toss that into our solitare game
   just for fun!
 - Nobody still uses a modem anymore. Do they!
 - QA, shmoo A. It works fine on my computer. Anyway, we can always patch it later.
-*** Take advantage of "virtualization"
-** Price your game at $35. Or $3.50. And sell it only from your myspace home page
+**** Take advantage of "virtualization"
+*** Price your game at $35. Or $3.50. And sell it only from your myspace home page
 - I dunno, that price just feels right to me.
 - We don't need no stinking contracts or partners! We'll launch this game on our own!
 - Someone offered us a deal! No time to read the fine print! Sign!
-*** Match price of similar games
+**** Match price of similar games
 - On the app store it seems the only way s by selling at $0.99-1.99 and then rely
   on upsells (microtransactions)
-** Use the Right Mouse Button
+*** Use the Right Mouse Button
 - Making critical control elements rely on the right mouse button or the mosue
   wheel is cool. Douesn't everyone have an RMB?
 - For that matter, why not use the keyboard to control stuff too?
 - Mouse AND keyboard at the same time? Even better! about a flightstick?
-*** Do a simple thing
+**** Do a simple thing
 - Once the user gets the simple thing, you can add on more complexity
 - *If you don't have to do 3d, don't do it*
-** Give it a terrible name or theme
+*** Give it a terrible name or theme
 - Everyone knoes casual game players love dungeons. And skulls, right?
 - How about a game with robot skulls... In a SPACE DUNGEON?
 - Remember to use words that resonate with your target audience like "blood",
   war", and "assault"
-*** Three things
+**** Three things
 - Easy to pronounce
 - Memorable
 - Able to trademark it
-** Award low scores
+*** Award low scores
 - It's not logical to award 10 points when 1 point will do
 - It doesn't matter if people think the game is low-scoring
 - Touchy-feely psychological factors have no place in game design!
-*** Give away your points!
+**** Give away your points!
 - They are literally all you've got!
 - Don't rely on sound for feedback
-** Expect users to read
+*** Expect users to read
 - If the game is complex, we'll just put a few pages of instructional text at
   the beginning
 - What do you mean you didn't get that part? There's a three-paragraph pop-up that
   explaines it
 - It's best to explain everything all at once so people understand the function
   of every single thing in the game before they start playing
-*** *Show* the player how to play
+**** *Show* the player how to play
 - Use pictures
 - Walk them through the level
 - Don't make the player read
-*** Dump the story
+**** Dump the story
 - minimal story
 - user must play the game to get more story
-** Make it challening and cerebral
+*** Make it challening and cerebral
 - People LOVE really hard, really challenging mental puzzles. THe kind that can
   totally stump and/or frustrate your for HOURS.
 - Well, some people do, don't the? People who play Sudoku or the NY Times
   Crossword puzzle?
 - Wht do you mean those people aren't the same ones playing casual games? That's
   just crazy talk
-*** Remember, you are making a CASUAL game
+**** Remember, you are making a CASUAL game
 - Half of americans have below average inelligence
 - You are get Mom's playing your game
-** Ignore what everyone else says about your game
+*** Ignore what everyone else says about your game
 - What the hell does my MOM know about games, anyway?
 - These testers have been playing the game for 6 months now! So I trust their
   opinion on how new players will feel.
 - If you don't get it you're... you're just stupid
-*** Market to moms
+**** Market to moms
 - Mom's are gonna buy your game, and they are gonna decide if their kids get to
   play your game
 - Women over 35 are huge portion of the market
 - The mom "buys" the game
   - If the game doesn't appeal to mom, you're busted
-* 3 Ways to make a good casual game
-** Always give feedback to players
+** 3 Ways to make a good casual game
+*** Always give feedback to players
 - Good feedback help make gameplay intuitive
 - When players do something bad, guide them to do something better. When they do
   something good, reward them in as many ways as possible
 - Make the interface invisible so the user is "one with the game"
-** Consider your customer
+*** Consider your customer
 - The typical casual game comnsumer may not be like you!
 - By nature, they are likely to be less familiar with computer game conventions
   than you. For that matter, many things about computers may be new to them!
 - Not stupid, but they are not as familiar with the same things you are
-** Get EXCITED about your game!
+*** Get EXCITED about your game!
 - If you can't even get interested in the game you're working on, how will your players?
 - Don't make a game because your research indicatese that "this type of player"
   statistially likes "this type of game." If you have no passion or feeling for
