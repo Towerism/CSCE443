@@ -1,0 +1,27 @@
+#+TITLE: All the Walls
+#+AUTHOR: Martin Fracker
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+* Mechanic
+The game is a forwards and backwards running game. You cannot see anything other
+than the player, the floor the player runs on, and occasionally a spotlight or
+two. The player needs to change directions when under a spotlight, but if he or
+she changes directions too soon, the player loses. The levels progress by adding
+one more spotlight. Each spotlight is placed in a random location on the floor,
+and the player will never see more than one spotlight on screen at a time.
+* Audience
+The game is intended for casual players. Players who enjoyed the "Pop the Lock"
+game will most likely enjoy this game, since the mechanic is very similar.
+
+* Delivery Platform
+Naturally, this game will be for mobile devices and will be released on ios and
+android platforms.
+* The games look and feel
+The game is black and white and will look and feel very zen. The floor, the
+player, and spotlights will be white, while everything else will be black.
+* Elevator Pitch
+Imagine a game like "Pop the Lock" turned into a zen runner game. Instead of
+tapping a lock to change direction of a spinning combination dial, you tap to
+change the direction that the player is running. The player must run away from
+the walls chasing him in the dark and must also beware the stationary wall on
+the other side of randomly occurring spotlights.
