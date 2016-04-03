@@ -1,13 +1,17 @@
-* CastleRun
-** Idea
-Think a Castlevania inspired running game
-** Level
+#+TITLE: Castle Run
+#+AUTHOR: Martin Fracker
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+
+* Idea
+Think of a Castlevania inspired running game
+* Level
 - The player runs through the level until he dies
 - Along the level, he collects various items
   - keys, weapons, armor, etc.
   - most items collected are persistent through lives
     - That is after dying most items collected are retained
-** Mechanic
+* Mechanic
 - After dying the level is restarted
 - Most likely the player will realize that more of the level is accessible
   because of the new items he collected
@@ -18,6 +22,6 @@ Think a Castlevania inspired running game
   the player can always access in the coming lives
 - Each time the player comes across a previously unlocked fork, he can choose
   whether he takes the fork or continues on the current path
-** Thoughts
+* Thoughts
 - The player may find that he can find certain items on one path that open up
   new opportunities on another path
