@@ -1,0 +1,24 @@
+#+TITLE: Don't Jump the Gun!
+#+AUTHOR: Martin Fracker
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+* Concept
+Two people can go head to head on a single device in a brief battle of speedy
+reflexes.
+* Mechanic
+Imagine two western shooters facing off in front of a saloon. There is a referee
+in between them holding a sign not yet revealed to either player. Attempting to
+throw off the two shooters, the referee fakes them out by flinching as if he is
+going to reveal the sign. If the sign is to pull the trigger, the first one to
+pull his trigger wins; if the sign is to push 2 or 3 buttons in sequence on his
+or gun, the first person to complete the sequence on his or gun can immediately
+pull the trigger on his opponent (making a mistake during the sequence will
+result in that player's gun backfiring). Winner is determined by playing best 3
+out of 5. Alas, in this example, the referee had faked out the players. One of
+the players was sure the sign would be to pull the trigger: his gun backfired
+giving the round to the player who didn't jump the gun.
+* Interesting notes
+The referee has a tell when he is about to give the signal for pulling the
+trigger: he cracks a slight grin. The referee is aware of this tell, so whenever
+he is planning on throwing off the players he will fake this tell in addition to
+flinching.
